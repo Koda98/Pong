@@ -39,4 +39,5 @@ public abstract class Paddle {
         batch.draw(texture, position.x, position.y, size.x, size.y, 0, 0, texture.getWidth(), texture.getHeight(), flip, false);
     }
 
+    //test test test
 }
